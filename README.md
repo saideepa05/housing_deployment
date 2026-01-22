@@ -15,6 +15,4 @@ C:\Users\saide\miniconda3\condabin\conda.bat activate "C:\Users\saide\Desktop\st
 ```powershell
 pip install -r requirements.txt
 ```
-```
-conda create -p venv python==3.7 -y
-```
+
